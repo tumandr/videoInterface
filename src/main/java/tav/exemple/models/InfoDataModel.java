@@ -19,6 +19,7 @@ public class InfoDataModel {
 //        System.out.println(countComs);
     }
 
+
     public StringProperty countComsProperty() {
         return this.countComs;
     }
